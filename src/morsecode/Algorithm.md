@@ -1,4 +1,5 @@
-```Decode Morse Algorithm
+Decode Morse Algorithm
+
 Algorithm for decode method
    * 1. create variable to hold the morse code value to be translated
    * 2. create variable space, decodedValue and final decoded Value
